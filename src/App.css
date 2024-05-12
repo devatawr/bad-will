@@ -1,0 +1,40 @@
+
+.sixtyFour {
+    font-family: "Sixtyfour", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "BLED" 0,
+    "SCAN" 0;
+}
+
+.purple {
+    color: #ea33f7
+}
+
+.blue {
+    color: #75fbfd
+}
+
+.green {
+    color: #75fb4c
+}
+
+.red {
+    color: #ea3323
+}
+
+.yellow {
+    color: #ffff54
+}
+
+.b {
+    border: 1px solid black;
+    background-color: #ebebeb;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.3s;
+    width: 160px;
+}
