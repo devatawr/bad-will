@@ -15,8 +15,8 @@ function App() {
     const {address,} = useAccount();
 
     const loanContract = "0x";
-    const sbtA = "0x";
-    const sbtB = "0x";
+    // const sbtA = "0x";
+    // const sbtB = "0x";
     const bugs = "0x";
 
     return (
