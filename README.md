@@ -2,12 +2,15 @@
 
 ## Prerequisites
 
-To make sure it works, you should point the valid contract address in the `src/App.tsx` file first.
+To make sure it works, you should point the valid contract address in the `frontend/src/App.tsx` `contract/loan.sol` file first.
 ```typescript
     const loanContract = "0x";
     // const sbtA = "0x";
     // const sbtB = "0x";
     const bugs = "0x";
+```
+```solidity
+    IERC20 public bugToken = IERC20(0xadd); // bugsToken
 ```
 
 ## Available Scripts
